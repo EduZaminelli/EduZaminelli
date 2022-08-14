@@ -1,11 +1,12 @@
 ### Saudações!!! 🖖 Vida longa e próspera!
 
 - 🔭 Hoje estou trabalhando fora da área de TI (Por enquanto...)
-- 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, C e C++
+- 🌱 Atualmente estou aprendendo Python 3
 - 📚 Estudando Engenharia de Softwares 1/6 e Análise e Desenvolvimento de Sistemas 1/5
-- 📫 Contate-me pelo e-mail: Duduzaminelli@gmail.com
+- 📫 Contate-me pelo e-mail: Duduzaminelli13@gmail.com
 - ⚡ Fato curioso: A espécie de Yoda nunca foi nomeada. Quem diria?
 - 💬 Me pergunte algo...
+- https://allmylinks.com/duduzaminelli
   ##
 
 <div align="center">
